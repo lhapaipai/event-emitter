@@ -1,0 +1,16 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/EventEmitter.js",
+  "module": "./src/EventEmitter.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhapaipai/event-emitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
